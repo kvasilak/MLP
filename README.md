@@ -1,7 +1,7 @@
 MLP
 ===
 
-An Arduino library for sending MegunoLink Pro packets to the various visualisers.
+A C++ library, ported from the arduino version, for sending MegunoLink Pro packets to the various visualisers.
 Currently supports sending data to:
 * [XY-Plots](http://www.megunolink.com/documentation/plotting/)
 * [Time plots](http://www.megunolink.com/documentation/plotting/)
